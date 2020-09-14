@@ -4,17 +4,15 @@
 
 - Creator of [Ouroboros](https://github.com/pyouroboros/ouroboros)
 
-- 👨‍💻 Checkout my portfolio site, [https://caleblemoine.dev](https://caleblemoine.dev)
+- 👨‍💻  Checkout my portfolio site, [https://caleblemoine.dev](https://caleblemoine.dev)
 
-- 📝 I write articles at [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
+- 📝  I write articles at [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
 
-- 💬 Ask me about **Go, Python, Bash, Linux, JavaScript, Terraform, Kubernetes, AWS**
+- 💬  Ask me about **Go, Python, Bash, Linux, JavaScript, Terraform, Kubernetes, AWS**
 
-- 📫 How to reach me **caleblemoine@gmail.com**
+- 📫  How to reach me **caleblemoine@gmail.com**
 
 ![circa10a's github stats](https://github-readme-stats.vercel.app/api?username=circa10a&show_icons=true")
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=circa10a)
 
 <a href="https://linkedin.com/in/caleblemoine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caleblemoine" height="20" width="20" /></a>
 <a href="https://medium.com/@caleblemoine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@caleblemoine" height="20" width="20" /></a>
