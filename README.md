@@ -6,7 +6,7 @@
 
 - 👨‍💻  Checkout my portfolio site, [https://caleblemoine.dev](https://caleblemoine.dev)
 
-- 📝  I write articles at [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
+- 📝  I write articles at [https://dev.to/circa10a](https://dev.to/circa10a) and [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
 
 - 💬  Ask me about **Go, Python, Bash, Linux, JavaScript, Terraform, Kubernetes, AWS**
 
