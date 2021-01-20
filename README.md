@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Notifications for free developer swag 🎉](https://dev.to/circa10a/notifications-for-free-developer-swag-45eb)
+- [Monitoring the digitalocean app platform with ...the digitalocean app platform?](https://dev.to/circa10a/monitoring-the-digitalocean-app-platform-with-the-digitalocean-app-platform-4971)
+- [The mcbroken dashboard - digitalocean hackathon entry](https://dev.to/circa10a/the-mcbroken-dashboard-1eij)
+- [How to Create a Google Assistant Integration With Go](https://medium.com/better-programming/how-to-create-a-google-assistant-integration-with-go-9a2ca1f26fbf?source=rss-9966e90e509------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
