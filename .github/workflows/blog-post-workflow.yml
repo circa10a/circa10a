@@ -1,14 +1,14 @@
 name: Latest blog posts workflow
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 6 * * 3'
 jobs:
-    update-readme-with-blog:
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v2
-          - uses: gautamkrishnar/blog-post-workflow@master
-            with:
-              max_post_count: "4"
-              feed_list: "https://dev.to/feed/circa10a, https://medium.com/feed/@caleblemoine"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/circa10a, https://medium.com/feed/@caleblemoine"
