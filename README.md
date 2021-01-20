@@ -5,7 +5,7 @@
 
 - Creator of [Ouroboros](https://github.com/pyouroboros/ouroboros)
 
-- 👨‍💻  Checkout my portfolio site, [https://caleblemoine.dev](https://caleblemoine.dev)
+- 👨‍💻 All of my projects are available [in the repositories tab](https://github.com/circa10a?tab=repositories)
 
 - 📝  I write articles at [https://dev.to/circa10a](https://dev.to/circa10a) and [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
 
