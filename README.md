@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring GitHub Pull Requests with Prometheus](https://dev.to/circa10a/monitoring-github-pull-requests-with-prometheus-57p2)
 - [How to use feature toggles with Terraform](https://dev.to/circa10a/how-to-use-feature-toggles-with-terraform-28fi)
 - [Notifications for free developer swag 🎉](https://dev.to/circa10a/notifications-for-free-developer-swag-45eb)
 - [Monitoring the digitalocean app platform with ...the digitalocean app platform?](https://dev.to/circa10a/monitoring-the-digitalocean-app-platform-with-the-digitalocean-app-platform-4971)
-- [The mcbroken dashboard - digitalocean hackathon entry](https://dev.to/circa10a/the-mcbroken-dashboard-1eij)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
