@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Halloween decorations with raspberry pi's 🎃](https://dev.to/circa10a/interactive-halloween-decorations-with-raspberry-pis-24el)
 - [Monitoring GitHub Pull Requests with Prometheus](https://dev.to/circa10a/monitoring-github-pull-requests-with-prometheus-57p2)
 - [How to use feature toggles with Terraform](https://dev.to/circa10a/how-to-use-feature-toggles-with-terraform-28fi)
 - [Notifications for free developer swag 🎉](https://dev.to/circa10a/notifications-for-free-developer-swag-45eb)
-- [Monitoring the digitalocean app platform with ...the digitalocean app platform?](https://dev.to/circa10a/monitoring-the-digitalocean-app-platform-with-the-digitalocean-app-platform-4971)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
