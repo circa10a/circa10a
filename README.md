@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Geofence your self-hosted web server and API&#39;s](https://dev.to/circa10a/geofence-your-self-hosted-apis-4jfn)
 - [Pull Requests need more cute animals](https://dev.to/circa10a/pull-requests-need-more-cute-animals-3oi0)
 - [Interactive Halloween decorations with raspberry pi&#39;s 🎃](https://dev.to/circa10a/interactive-halloween-decorations-with-raspberry-pis-24el)
 - [Monitoring GitHub Pull Requests with Prometheus](https://dev.to/circa10a/monitoring-github-pull-requests-with-prometheus-57p2)
-- [How to use feature toggles with Terraform](https://dev.to/circa10a/how-to-use-feature-toggles-with-terraform-28fi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
