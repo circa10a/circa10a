@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to share a volume between cloud servers using DigitalOcean Spaces](https://dev.to/circa10a/how-to-share-a-volume-between-instances-using-digitalocean-spaces-2ea)
 - [The time I had night terrors about us-east-1 outages](https://dev.to/circa10a/the-time-i-had-night-terrors-about-us-east-1-outages-5d1b)
 - [Ephemeral Jenkins Users + API Tokens using Hashicorp Vault](https://dev.to/circa10a/ephemeral-jenkins-users-api-tokens-using-hashicorp-vault-49kn)
 - [Geofence your self-hosted web server and API&#39;s](https://dev.to/circa10a/geofence-your-self-hosted-apis-4jfn)
-- [Pull Requests need more cute animals](https://dev.to/circa10a/pull-requests-need-more-cute-animals-3oi0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
