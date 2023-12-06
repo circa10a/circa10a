@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I use &quot;AI&quot; to entertain my cat](https://dev.to/circa10a/how-i-use-image-classification-to-entertain-my-cat-3g1l)
 - [How to share a volume between cloud servers using DigitalOcean Spaces](https://dev.to/circa10a/how-to-share-a-volume-between-instances-using-digitalocean-spaces-2ea)
 - [The time I had night terrors about us-east-1 outages](https://dev.to/circa10a/the-time-i-had-night-terrors-about-us-east-1-outages-5d1b)
 - [Ephemeral Jenkins Users + API Tokens using Hashicorp Vault](https://dev.to/circa10a/ephemeral-jenkins-users-api-tokens-using-hashicorp-vault-49kn)
-- [Geofence your self-hosted web server and API&#39;s](https://dev.to/circa10a/geofence-your-self-hosted-apis-4jfn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
