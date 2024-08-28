@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=circa10a&label=Profile%20views&color=0e75b6&style=flat" alt="circa10a" /> </p>
 
-- Creator of [Ouroboros](https://github.com/pyouroboros/ouroboros)
-
 - 👨‍💻 All of my projects are available [in the repositories tab](https://github.com/circa10a?tab=repositories)
 
 - 📝  I write articles at [https://dev.to/circa10a](https://dev.to/circa10a) and [https://medium.com/@caleblemoine](https://medium.com/@caleblemoine)
 
-- 💬 Ask me about **Go, Python, Bash, Linux, JavaScript, Terraform, Kubernetes, AWS**
+- 💬 Ask me about **Go, Python, Bash, Linux, JavaScript, Terraform, Kubernetes, AWS, GCP, and why you should never consider Azure**
 
 - 📫 How to reach me **caleblemoine@gmail.com**
 
