@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">I'm a software engineer that likes infrastructure</h3>
 
+> "I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in."
+> 
+>\- Linus Torvalds
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=circa10a&label=Profile%20views&color=0e75b6&style=flat" alt="circa10a" /> </p>
 
 - 👨‍💻 All of my projects are available [in the repositories tab](https://github.com/circa10a?tab=repositories)
